@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "ESNext",
+      "jsx": "react",
+      "moduleResolution": "Node",
+      "outDir": "./dist",
+      "strict": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "include": ["./src/**/*"]
+  }
